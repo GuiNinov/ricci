@@ -1,0 +1,7 @@
+/target
+
+/assets/
+
+.env
+
+pytorch-static/
